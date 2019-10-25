@@ -15,3 +15,7 @@ a:hover {
 a:visited {
     color: inherit;
 }
+
+* {
+    box-sizing: border-box;
+}
